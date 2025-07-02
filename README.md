@@ -22,5 +22,26 @@ Heart arrhythmias are irregular heartbeats that can lead to serious health risks
 
 ---
 
-## 📁 Project Structure
+---
+
+## ✅ Future Scope
+
+- 🔄 Replace synthetic data with real-world ECG datasets (e.g., MIT-BIH Arrhythmia Database)
+- 📱 Deploy model on mobile/wearable devices for real-time heart monitoring
+- 🧠 Use advanced models like LSTM/Transformers for sequence modeling
+- 🧪 Include multi-lead ECG signal support (12-lead clinical ECGs)
+- 🧹 Add noise robustness, data augmentation, and domain adaptation
+- ☁️ Integrate into telemedicine platforms for remote diagnostics
+- 📉 Improve interpretability with saliency maps or attention mechanisms
+
+---
+
+## 📊 Results Summary
+
+- **Training Accuracy:** Up to 95%+ on synthetic ECG signals
+- **Validation Accuracy:** Reached 97.3% on held-out synthetic test set
+- **Precision, Recall, F1-Score:** All ~96–98% for each class
+- **Model Size:** ~915 KB (lightweight for deployment)
+- **Confusion Matrix:**
+
 
