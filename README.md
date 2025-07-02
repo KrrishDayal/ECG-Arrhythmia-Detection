@@ -1,4 +1,3 @@
-# ECG-Arrhythmia-Detection
 # ECG Arrhythmia Detection Using Deep Learning (Synthetic Data)
 
 This project builds a Convolutional Neural Network (CNN) model to classify ECG signals into multiple classes, including **Normal**, **Arrhythmia**, and abnormalities such as **ST Depression**, **ST Elevation**, and **T Wave Inversion** — using **synthetically generated ECG signals**.
