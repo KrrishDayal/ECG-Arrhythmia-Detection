@@ -42,6 +42,35 @@ Heart arrhythmias are irregular heartbeats that can lead to serious health risks
 - **Validation Accuracy:** Reached 97.3% on held-out synthetic test set
 - **Precision, Recall, F1-Score:** All ~96–98% for each class
 - **Model Size:** ~915 KB (lightweight for deployment)
-- **Confusion Matrix:**
+- **Results**
+               precision    recall  f1-score   support
+
+    Normal       0.96      0.98      0.97      1000
+
+
+---
+
+## 🩺 Real-World Use Cases
+
+- **Clinical Decision Support:** Assists doctors in screening ECGs quickly
+- **Remote Patient Monitoring:** Can be integrated with IoT/wearable ECG devices
+- **Telemedicine:** Supports heart health diagnostics in underserved areas
+- **Medical Training:** Provides labeled ECG data and models for student learning
+- **Pre-screening Tool:** Helps in early arrhythmia detection during routine check-ups
+
+---
+
+## ✍️ Author
+
+**Krrish**  
+🎓 Electronics & Communication Engineering  
+📍 Passionate about healthcare AI, VLSI, and embedded systems  
+🧠 Working on deep learning solutions for real-world health problems  
+📫 Reach me for collaborations or questions!
+
+---
+
+
+
 
 
